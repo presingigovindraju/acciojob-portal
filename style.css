@@ -1,0 +1,462 @@
+.navbar{
+    display: flex;
+    justify-content: space-around !important;
+    align-items: center !important;
+}
+ul>li{
+    list-style: none;
+}
+.options-1{
+    padding-left: 50px;
+    
+}
+.my-options{
+    font-style: italic;
+    margin-right: -110px;
+    margin-top: 10px;
+}
+.button-1{
+    border-width: 2px !important;
+    font-style: italic;
+    margin-top: 7px;
+}
+marquee{
+    color: white;
+    font-style: italic;
+    background-color: #2f80ed;
+    font-size: small;
+    height: 25px;
+}
+.span-blue{
+    color:blue;
+}
+.my-advice{
+    color: var(--BLACK, #2B2F34);
+    font-weight: 400;
+    line-height: 130%; /* 65px */
+    letter-spacing: -0.75px;
+    font-style: italic;
+}
+.my-advice>h4{
+    font-size: 35px;
+}
+.my-advice>span{
+    margin-top: 25px ;
+    font-size: 35px;
+    font-weight: 470;
+}
+.my-discreption{
+    margin-top: 20px;
+    font-style: italic;
+    font-size: small;
+}
+.mini-card{
+    margin-top: 25px;
+    width: 600px;
+    height: Fixed (77px);
+    border: 1px solid #e7e7e7;
+    display: flexbox;
+    border-radius: 5px;
+    box-shadow: 1px 0px 2px #dcdcde;
+    background-color: #ffffff;
+}
+.my-symbole{
+    width: 300px;
+    height: 30px;
+    font-style: italic !important;
+    font-size: 18px;
+    border: 1px solid #e7e7e7;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 2px 0px 10px #dcdcde;
+    background-color: #ffffff;
+    margin-top: -60px !important;
+}
+.my-information{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.login-box{
+    width: 370px;
+    height: 400px;
+    background-color: #ffffff;
+    box-shadow: 1px 0px 45px blue;
+    border-radius: 20px;
+    border: none;
+    margin-left: -40px ;
+    padding: 4px 2px;
+    display: flex;
+    font-style: oblique;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    margin-bottom: 60px;
+}
+.my-section-1{
+    margin-top: 60px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.my-container-1{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.apply-my{
+    color: white;
+}
+.my-sam,.my-call{
+    width: 300px;
+    height: 30px;
+    border: 1px solid black; 
+    background-color:#fafafa ;
+    border-radius: 10px;
+    border: none;
+    padding:1px 3px;
+}
+#my-inch{
+    border-radius: 10px;
+    background-color:#fafafa ;
+    border: none;
+}
+.my-start{
+    font-weight: 498;
+    font-size: xx-large;
+    color: black;
+}
+.my-live{
+    font-size: small;
+}
+.my-btn-width{
+    width: 300px;
+    height: 35px;
+    font-style: italic;
+}
+.my-last-one{
+    font-size: small;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: -10px;
+}
+.my-small-blue{
+    color: blue;
+    font-size: small;
+    font-weight: 300;
+    font-style: oblique;
+    margin-top: -15px;
+}
+.content-container{
+    margin-top: 80px;
+    padding: 20px 30px;
+    background-color: #ecf8ff;
+}
+.my-full-stack{
+      padding-top: 50px;
+      text-transform: uppercase;
+      font-weight: 400;
+      color: #4f94f0;
+}
+.my-courses{
+    font-weight: 490;
+    color: #0d6efd;
+    margin-top: -5px;
+}
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.my-middle-box-1{
+    width: 400px;
+    height: 420px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border:1px solid #eaedee;
+    padding: 15px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.my-big{
+    margin-top: -35px;
+    font-size: large;
+    font-weight: 600;
+    font-style: italic;
+}
+.raw-1{
+    width: 30px;
+    height: 20px;
+}
+.my-middle-box-2{
+    width: 400px;
+    height: 420px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-left: 20px;
+    border:1px solid #eaedee;
+    padding: 4px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.chinni-width{
+    margin-top: 15px;
+    width: 120px;
+    height: 20px;
+    background-color: #e0f3ff;
+     color:#1d78b0;
+}
+.my-table{
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.my-chinni-1{
+    border-radius: 6px;
+    padding-left: 12px;
+    font-size: x-small;
+    padding-top: 2px;
+}
+.my-chinni-2{
+    margin-left: 5px;
+    border-radius: 6px;
+    font-size: x-small;
+    padding-top: 2px;
+    padding-left: 23px;
+}
+.both-small{
+   display: flex;
+   padding-left: 2px;
+}
+.text-note{
+    font-style: italic;
+    font-weight: 400;
+    font-size: x-small;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-stretch: extra-expanded;
+}
+.learn-1{
+    color:white;
+    font-weight: 600;
+    margin-left: 10px;
+    width: 150px;
+}
+td{
+    padding: 5px 15px;
+    font-size: small;border-collapse: collapse !important;
+}
+.butons-i-want{
+    margin-top: 20px;
+}
+.download-1{
+    width: 150px;
+}
+.kiran-1{
+    width:18px ;
+    height: 20px;
+}
+.box-main{
+    margin-bottom: 75px;
+}
+.raww-1{
+    width: 25px;
+    height: 20px;
+}
+.my-bigg{
+    font-size: large;
+    font-weight: 600;
+    font-style: italic;
+    margin-top: -40px;
+}
+.chin-width-1{
+    background-color: #ffeed8 ;
+}
+.my-tablee{
+    margin-top:25px
+}
+.over-time{
+    font-size: small;
+    color: #0d6efd;
+}
+.over-timee{
+    font-weight: 500;
+    font-size: xx-large;
+    font-style: italic;
+    margin-left: -65px;
+    margin-top: -15px;
+}
+.over-timees{
+    font-weight: 600;
+     font-size: x-large;
+    font-style: italic;
+    color: #0d6efd;
+}
+.over-timeess{
+    font-style: normal;
+    font-size: small;
+    margin-left: 10px;
+}
+.s-1{
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+.c-1{
+    margin-right: 25px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+.k-1{
+   
+    margin-left: 40px;
+    
+}
+.raju-1{
+    width: 230px;
+}
+.companies-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.companies-info-1{
+    margin-top: 90px;
+    margin-left: 120px;
+}
+.companies-info-2{
+    display: flex;
+    margin-top: 15px;
+}
+.companies-info-3{
+    margin-top: 20px;
+}
+.keep-1{
+   width: 300px;
+   height: 200px;
+   border: 1px solid #e7e7e7;
+   border-radius: 20px;
+   margin-bottom: 10px;
+   margin-right: 10px;
+   background-color: #ffffffff;
+   box-shadow: 1px 0px 70px #f6f6f6;
+}
+.fanny-1{
+    display: flex;
+}
+.keeps-1{
+    width: 400px;
+    height: 250px;
+    border: 1px solid #e7e7e7;
+    border-radius: 20px;
+    margin-bottom: 10px;
+   margin-right: 10px;
+   background-color: #ffffffff;
+   box-shadow: 1px 0px 70px #f6f6f6;
+   
+ }
+ .keepss-1{
+    width: 400px;
+    height: 150px;
+    border: 1px solid #e7e7e7;
+    border-radius: 20px;
+    margin-bottom: 10px;
+   margin-right: 10px;
+   background-color: #ffffffff;
+   box-shadow: 1px 0px 70px #f6f6f6;
+ }
+ .yavan-1{
+    padding: 10px 10px;
+ }
+ .lenova-1{
+    font-size: large ;
+    margin-left: 10px;
+ }
+ .lal-1{
+    font-size: small ;
+ }
+ .jawla-1{
+    display: flex;
+    justify-content: space-between;
+ }
+ .man-1{
+    font-size: small ;
+ }
+ .pan-1{
+    margin-left: 40px;
+ }
+ .una-1{
+    margin-left: 35px;
+ }
+ .han-1{
+    margin-left: 140px;
+ }
+ .jan-1{
+    font-size: x-small;
+ }
+ .jann-1{
+    font-size: x-small;
+    margin-top: -10px;
+ }
+ .yok-1{
+     margin-top: 10px;
+ }
+ .omkar-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .kakinada-1{
+    margin-top: 50px;
+    font-style: italic;
+    font-weight: 550;
+ }
+ .kakinada-2{
+    margin-top: 10px;
+ }
+ .fanny-1{
+    margin-top: 10px;
+ }
+ .my-love{
+     margin-top: 30px;
+     margin-bottom: 30px;
+ }
+
+
+
+
+ @media screen and (max-width:768px){
+    .navbar,.my-container-1,.box-main,.companies-info-2,.fanny-1{
+        flex-direction: column;
+    }
+    .my-options{
+        flex-direction: column;
+        margin-left: -165px;
+    }
+    .options-1{
+        padding-top: 15px;
+    }
+    .mini-card{
+        width: 300px;
+        border-radius: 20px;
+        padding-left: 10px;
+    }
+    .my-middle-box-2{
+        margin-top: 10px;
+        margin-left: -8px;
+    }
+    .companies-info-2{
+        margin-left: 20px;
+    }
+ }
